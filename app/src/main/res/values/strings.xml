@@ -1,0 +1,119 @@
+<resources>
+
+    <string-array name = "spinner_options">
+        <item name = "Full_Funding">Full Funding</item>
+        <item name = "Partial_Funding">Partial Funding</item>
+        <item name = "Only_Tuition_Fees">Only Tuition Fees</item>
+    </string-array>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+
+    <string-array name = "country_options">
+        <item name = "Australia">Australia</item>
+        <item name = "Canada">Canada</item>
+        <item name = "France">France</item>
+        <item name = "Germany">Germany</item>
+        <item name = "Hong_Kong">Hong Kong</item>
+        <item name = "India">India</item>
+        <item name = "Japan">Japan</item>
+        <item name = "New_Zealand">New Zealand</item>
+        <item name = "Singapore">Singapore</item>
+        <item name = "UAE">UAE</item>
+        <item name = "UAE">UAE</item>
+        <item name = "UK">UK</item>
+        <item name = "USA">USA</item>
+    </string-array>
+
+    <string-array name = "degree_options">
+        <item name = "High_School">HighSchool</item>
+        <item name = "Bachelors">Bachelors</item>
+        <item name = "Masters">Masters</item>
+        <item name = "PhD">PhD</item>
+        <item name = "Post_Doc">Post Doc</item>
+        <item name = "Diploma">Diploma</item>
+        <item name = "Research_Fellow/Scientist">Research Fellow/Scientist</item>
+        <item name = "MBA">MBA</item>
+        <item name = "Others">Others</item>
+    </string-array>
+
+    <string-array name = "field_options">
+        <item name = "Computer_sciences_and_Information_Technology">Computer sciences and Information Technology</item>
+        <item name = "Engineering_and_Technology">Engineering and Technology</item>
+        <item name = "Mechanical_Engineering">Mechanical Engineering</item>
+        <item name = "Electrical_/_Electronics_and_communications">Electrical / Electronics and communications</item>
+        <item name = "Biotechnology,_Biomedical_and_other_related">Biotechnology, Biomedical and other related</item>
+        <item name = "Chemical_Engineering">Chemical Engineering</item>
+        <item name = "Aerospace,_Aeronautical_and_Marine_Engineering">Aerospace, Aeronautical and Marine Engineering</item>
+        <item name = "Film_and_Theatre_studies">Film and Theatre studies</item>
+        <item name = " Animation_and_Graphic_Design"> Animation and Graphic Design</item>
+        <item name = "Forensics">Forensics</item>
+        <item name = "Astronomy"> Astronomy</item>
+        <item name = "Food_Technology">Food Technology</item>
+        <item name = "Medicine">Medicine</item>
+        <item name = "Nursing">Nursing</item>
+        <item name = "Dentistry">Dentistry</item>
+        <item name = "Physiotherapy">Physiotherapy</item>
+        <item name = "Sociology">Sociology</item>
+        <item name = "Psychology">Psychology</item>
+        <item name = "Business,_Management,_Economics,_Accounting">Business, Management, Economics Accounting</item>
+        <item name = "Journalism_and_Mass_communication">Journalism and Mass communication</item>
+        <item name = "Tourism_and_Hospitality">Tourism and Hospitality</item>
+        <item name = "Education">Education</item>
+        <item name = "Social_Sciences">Social Sciences</item>
+        <item name = "History">History</item>
+        <item name = "Geography">Geography</item>
+        <item name = "Physics">Physics</item>
+        <item name = "Mathematics">Mathematics</item>
+        <item name = "Chemistry">Chemistry</item>
+        <item name = "Biology">Biology</item>
+        <item name = "Sports">Sports</item>
+        <item name = "Others">Others</item>
+
+    </string-array>
+
+    <string name="app_name">Scholarship Hub</string>
+    <string name="title_activity_welcome">Home Screen</string>
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="start">GOT IT</string>
+
+    <string name="slide_1_title">Scholarship Hub</string>
+    <string name="slide_1_desc">The easiest path to get your desired Scholarship!</string>
+
+    <string name="slide_2_title">Greatest Variety</string>
+    <string name="slide_2_desc">Get Scholarships in all fields!</string>
+
+    <string name="slide_3_title">Super Convenient</string>
+    <string name="slide_3_desc">With a large vareity of filters available!</string>
+
+    <string name="slide_4_title">Track your progress</string>
+    <string name="slide_4_desc">With various amazing features!</string>
+
+    <string name="play_again_desc">To see the welcome slider again, goto Settings -> apps -> welcome slider -> clear data</string>
+    <string name="play_again">Play Again</string>
+
+    <string name="spinner_title">Select Category</string>
+    <string name="title_activity_details">Details</string>
+    <string name="title_Back">Back</string>
+    <string name="title_Shortlisted">Shortlisted</string>
+    <string name="title_Applied">Applied</string>
+    <string name="title_Accepted">Accepted</string>
+    <string name="title_Rejected">Rejected</string>
+
+    <string name="name">University of Illinois</string>
+    <string name="date">Expires in 45 days</string>
+
+
+    <string name="level">High/Secondary School</string>
+    <string name="organisation">The Pensters</string>
+    <string name="doe">31st July</string>
+    <string name="funding">Partial funding, $1000</string>
+    <string name="details">Scholarship Candidates may be either new or existing candidates in the CFA Program. Candidates can only receive one Access Scholarship per calendar year. Further, a Candidate may only receive one scholarship per exam, so if a candidate applies for both an Access Scholarship and another type of scholarship, and receives an award, the remaining application will be void. For future examinations (for the same or another level), recipients must apply and be selected for an additional scholarship to receive the discounted rate. </string>
+
+</resources>

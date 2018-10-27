@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+
+    <item android:title="Scholarships">
+        <menu>
+            <item
+                android:id="@+id/nav_shortlisted"
+                android:title="Short Listed"
+                android:onClick="chnage"
+                android:icon="@drawable/ic_star_black_24dp"/>
+            <item
+                android:id="@+id/nav_applied"
+                android:title="Applied"
+                android:icon="@drawable/ic_check_black_24dp"/>
+
+            <item
+                android:id="@+id/nav_dec"
+                android:title="Declined"
+                android:icon="@drawable/ic_close_black_24dp"/>
+        </menu>
+    </item>
+
+    <item
+        android:id="@+id/nav_manage"
+        android:icon="@drawable/ic_local_offer_black_24dp"
+        android:title="Scholarship Tips" />
+</menu>

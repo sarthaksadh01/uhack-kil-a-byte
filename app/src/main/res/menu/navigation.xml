@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_Back"
+        android:icon="@drawable/ic_home_black_24dp"
+        android:title="@string/title_Back" />
+
+    <item
+        android:id="@+id/navigation_Shortlisted"
+        android:icon="@drawable/ic_star_border_black_24dp"
+        android:title="@string/title_Shortlisted" />
+
+    <item
+        android:id="@+id/navigation_Applied"
+        android:icon="@drawable/ic_access_time_black_24dp"
+        android:title="@string/title_Applied" />
+
+    <item
+        android:id="@+id/navigation_Accepted"
+        android:icon="@drawable/ic_check_black_24dp"
+        android:title="@string/title_Accepted" />
+
+    <item
+        android:id="@+id/navigation_Rejected"
+        android:icon="@drawable/ic_close_black_24dp"
+        android:title="@string/title_Rejected" />
+
+</menu>
